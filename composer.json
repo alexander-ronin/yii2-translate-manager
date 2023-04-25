@@ -32,3 +32,4 @@
         "cs-fix-dry-run": "php-cs-fixer fix --config=.php_cs --dry-run --diff"
     }
 }
+
